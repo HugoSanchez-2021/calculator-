@@ -1,0 +1,46 @@
+body{
+  background-image: url(/img/wallpaperbetter.jpg);
+}
+.titulo{
+  font-size: 50px;
+  color: #fff;
+  text-align: center;
+
+}
+.calculadora{
+    display:block;
+    margin:0 auto;
+    padding:0px;
+    background-color:rgba(87, 79, 175, 0.4);
+    width:310px;
+    height:500px;
+    border-radius: 25px;
+    border: solid rgb(57, 57, 65);
+  }
+  .calculadora td button{
+    display:block;
+    width:70px;
+    height: 60px;
+    font-size: 25px;
+    border-radius: 15px;
+  }
+  #creditos{
+    display:block;
+    padding-top:20px;
+    color:#fff;
+    text-align: center;
+    width:300px;
+  }
+  #resultado{
+    display:block;
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 50px;
+    width:300px;
+    height: 100px;
+    line-height: 100px;
+    background-color:rgba(87, 79, 175, 0.4);
+    border-radius: 25px;
+    border: solid black;
+  
+  }
